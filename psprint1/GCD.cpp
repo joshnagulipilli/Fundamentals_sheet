@@ -13,7 +13,7 @@ int main()
     // {
     //     if(x%i==0 && y%i==0) 
     //     {
-    //         gcd=i;
+    //         gcd=i;                                                       gcd=i ; break;
     //     }
     // }
     // cout<<gcd<<endl;
