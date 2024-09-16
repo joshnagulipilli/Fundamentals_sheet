@@ -10,7 +10,4 @@ int main()
         sum+=((i%2==0)?i:0);
     }
     cout<<sum;
-
-
-
 }
